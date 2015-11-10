@@ -1,0 +1,13 @@
+﻿@model LifeDemotivator.Models.IndexViewModel
+@{
+    ViewBag.Title = "Personal account";
+}
+
+<h2>@ViewBag.Title.</h2>
+
+<p class="text-success">@ViewBag.StatusMessage</p>
+<div>
+    <h4>Изменение параметров учетной записи</h4>
+    <hr />
+    <img src="~/Content/img/@Html.DisplayFor(m => m.AvatarUrl)" />
+</div>

@@ -1,0 +1,77 @@
+﻿@model LifeDemotivator.Models.CurrentUserViewModel
+@Scripts.Render("~/bundles/jqueryform")
+@Scripts.Render("~/bundles/jcrop")
+@Scripts.Render("~/bundles/avatar")
+@Styles.Render("~/Content/jcrop")
+@Styles.Render("~/Content/avatar")
+@{
+    string CommentsAndRate;
+}
+<link rel="stylesheet" href="~/Content/lightbox.css">
+<section id="avatar-upload-box">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+        <div class="panel-footer" style="background-color:pink">
+            <img src="@Model.AvatarUrl" height="100" width="100" />
+            <div class="col-md-6">
+                <div>
+                    <label>User name:</label>
+                    @Html.DisplayTextFor(m=>m.UserName)
+                 </div>
+                <div>
+                    <label>Email:</label>
+                    @Html.DisplayTextFor(m=>m.Email)
+                </div>
+                <div><a href="http://localhost:8000/Demotivators/Create">Create Demotivator</a></div>
+            </div>
+        </div>
+        @using (Ajax.BeginForm("_Profile", "Profile",
+        new AjaxOptions() { HttpMethod = "POST" },
+        new { enctype = "multipart/form-data", id = "avatar-upload-form" }))
+        {
+            @Html.AntiForgeryToken()
+            <div class="panel-footer" style="background-color:lightgrey">
+                <div class="panel-heading">Сменить аватар</div>
+                <input type="file" name="files" /><br>
+                <div class="upload-file-notice">Maximum Size: <span id="avatar-max-size"></span> MB</div>
+            </div>
+        }
+        <h3>YOUR DEMOTIVATORS</h3>
+        <dl class="dl-horizontal">
+            @foreach (var item in Model.demoList)
+            {
+                CommentsAndRate = Html.Partial("_VoteNow", item.Id.ToString()).ToString() + Html.Partial("_VoteShow", item.Rating).ToString() + Html.Partial("_Comments", item.Rating, new ViewDataDictionary { { "id", @item.Id } }).ToString();
+
+                <a class="example-image-link" data-title="@CommentsAndRate" href=@item.ModifiedUrl data-lightbox="example-1">
+                    <img class="example-image" src=@item.ModifiedUrl alt="image-1" width="250" height="300" />
+                </a>
+
+            }
+
+        </dl>
+    </div>
+    <div class="col-ms-2"></div>
+    <div class="upload-progress col-md-6 hidden">
+        <div class="upload-percent-value pull-left">0%</div>
+        <div class="upload-percent-bar pull-left"></div>
+    </div>
+    <div id="upload-status" class="hidden"></div>
+</section>
+<section id="avatar-crop-box" class="hidden">
+    <p>
+        <img src="" id="crop-avatar-target" alt="Uploaded image" />
+        <div id="preview-pane">
+            <div class="preview-container">
+                <img src="" class="jcrop-preview" alt="Preview" />
+            </div>
+        </div>
+    </p>
+    <p><button class="btn btn-default" onclick=" saveAvatar() ">Save Avatar</button></p>
+</section>
+<div id="avatar-result" class="hidden">
+    <img src="" alt="Final Image" />
+    <input type="submit" value="OK" class="btn-success" onclick="@("window.location.href='" + @Url.Action("SaveUrlCloud", "Profile") + "'");" />
+</div>
+
+<script src="~/Scripts/jquery-2.1.4.js"></script>
+<script src="~/Scripts/lightbox.js"></script>

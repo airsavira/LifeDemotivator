@@ -1,0 +1,36 @@
+﻿@model List<LifeDemotivator.Models.Demotivators>
+@{
+    ViewBag.Title = "Home Page";
+    string CommentsAndRate;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (!User.Identity.IsAuthenticated)
+{
+    <div>Log in</div>
+}
+<link rel="stylesheet" href="~/Content/lightbox.css">
+<h2>LIST OF DEMOTIVATORS</h2>
+
+<section>
+
+    <hr />
+    @Html.ActionLink("All", "FilterResults", new { parameter = 1 })
+    @Html.ActionLink("Top", "FilterResults", new { parameter = 2 })
+    @Html.ActionLink("New", "FilterResults", new { parameter = 3 })
+    <dl class="dl-horizontal">
+        @foreach (var item in Model)
+        {
+            CommentsAndRate = Html.Partial("_VoteNow", item.Id.ToString()).ToString() + Html.Partial("_VoteShow", item.Rating).ToString() + Html.Partial("_Comments", item.Rating, new ViewDataDictionary { { "id", @item.Id } }).ToString();
+
+            <a class="example-image-link" data-title="@CommentsAndRate" href=@item.ModifiedUrl data-lightbox="example-1">
+                <img class="example-image" src=@item.ModifiedUrl alt="image-1" width="250" height="300" />
+            </a>
+
+        }
+
+    </dl>
+</section>
+
+<script src="~/Scripts/jquery-2.1.4.js"></script>
+<script src="~/Scripts/lightbox.js"></script>

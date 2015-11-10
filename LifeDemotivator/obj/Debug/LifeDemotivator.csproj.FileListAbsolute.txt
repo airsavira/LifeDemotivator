@@ -1,0 +1,720 @@
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\LifeDemotivator.dll.config
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\LifeDemotivator.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\LifeDemotivator.pdb
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Antlr3.Runtime.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\EntityFramework.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\EntityFramework.SqlServer.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.Google.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.Web.Infrastructure.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Newtonsoft.Json.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Owin.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\System.Web.Helpers.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\System.Web.Mvc.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\System.Web.Optimization.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\System.Web.Razor.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\System.Web.WebPages.Deployment.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\System.Web.WebPages.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\System.Web.WebPages.Razor.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\WebGrease.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\System.Web.Helpers.xml
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\System.Web.Mvc.xml
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\System.Web.Optimization.xml
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\System.Web.Razor.xml
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\System.Web.WebPages.xml
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\System.Web.WebPages.Deployment.xml
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\System.Web.WebPages.Razor.xml
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Antlr3.Runtime.pdb
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Newtonsoft.Json.xml
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\EntityFramework.xml
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\EntityFramework.SqlServer.xml
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.xml
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.xml
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.Google.xml
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\ru\System.Web.Helpers.resources.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\ru\System.Web.Mvc.resources.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\ru\System.Web.Optimization.resources.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\ru\System.Web.Razor.resources.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\ru\System.Web.WebPages.resources.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\ru\EntityFramework.resources.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\ru\Microsoft.Owin.resources.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\obj\Debug\LifeDemotivator.csprojResolveAssemblyReference.cache
+D:\Сайт\LifeDemotivator\LifeDemotivator\obj\Debug\LifeDemotivator.dll
+D:\Сайт\LifeDemotivator\LifeDemotivator\obj\Debug\LifeDemotivator.pdb
+D:\Сайт\LifeDemotivator\LifeDemotivator\bin\CloudinaryDotNet.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\LifeDemotivator.dll.config
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\LifeDemotivator.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\LifeDemotivator.pdb
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Antlr3.Runtime.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\CloudinaryDotNet.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\EntityFramework.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\EntityFramework.SqlServer.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.Owin.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.Owin.Security.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.Owin.Security.Google.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.Web.Infrastructure.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Newtonsoft.Json.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Owin.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\System.Web.Helpers.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\System.Web.Mvc.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\System.Web.Optimization.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\System.Web.Razor.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\System.Web.WebPages.Deployment.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\System.Web.WebPages.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\System.Web.WebPages.Razor.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\WebGrease.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\System.Web.Helpers.xml
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\System.Web.Mvc.xml
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\System.Web.Optimization.xml
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\System.Web.Razor.xml
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\System.Web.WebPages.xml
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\System.Web.WebPages.Deployment.xml
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\System.Web.WebPages.Razor.xml
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Antlr3.Runtime.pdb
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Newtonsoft.Json.xml
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\EntityFramework.xml
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\EntityFramework.SqlServer.xml
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.Owin.xml
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.Owin.Security.xml
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.Owin.Security.Google.xml
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\ru\System.Web.Helpers.resources.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\ru\System.Web.Mvc.resources.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\ru\System.Web.Optimization.resources.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\ru\System.Web.Razor.resources.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\ru\System.Web.WebPages.resources.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\ru\EntityFramework.resources.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\ru\Microsoft.Owin.resources.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\obj\Debug\LifeDemotivator.csprojResolveAssemblyReference.cache
+D:\Сайт\LifeDemotivator12\LifeDemotivator\obj\Debug\LifeDemotivator.dll
+D:\Сайт\LifeDemotivator12\LifeDemotivator\obj\Debug\LifeDemotivator.pdb
+D:\Сайт\LifeDemotivator12\LifeDemotivator\obj\Debug\LifeDemotivator.Migrations.InitialCreate.resources
+D:\Сайт\LifeDemotivator12\LifeDemotivator\obj\Debug\LifeDemotivator.csproj.GenerateResource.Cache
+D:\Сайт\LifeDemotivator\LifeDemotivator\obj\Debug\LifeDemotivator.Migrations.InitialCreate.resources
+D:\Сайт\LifeDemotivator\LifeDemotivator\obj\Debug\LifeDemotivator.csproj.GenerateResource.Cache
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\LifeDemotivator.dll.config
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\LifeDemotivator.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\LifeDemotivator.pdb
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Antlr3.Runtime.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\CloudinaryDotNet.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\EntityFramework.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\EntityFramework.SqlServer.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.Owin.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.Owin.Security.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.Owin.Security.Google.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.Web.Infrastructure.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Newtonsoft.Json.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Owin.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\System.Web.Helpers.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\System.Web.Mvc.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\System.Web.Optimization.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\System.Web.Razor.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\System.Web.WebPages.Deployment.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\System.Web.WebPages.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\System.Web.WebPages.Razor.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\WebGrease.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\System.Web.Helpers.xml
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\System.Web.Mvc.xml
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\System.Web.Optimization.xml
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\System.Web.Razor.xml
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\System.Web.WebPages.xml
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\System.Web.WebPages.Deployment.xml
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\System.Web.WebPages.Razor.xml
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Antlr3.Runtime.pdb
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Newtonsoft.Json.xml
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\EntityFramework.xml
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\EntityFramework.SqlServer.xml
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.Owin.xml
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.Owin.Security.xml
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.Owin.Security.Google.xml
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\ru\System.Web.Helpers.resources.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\ru\System.Web.Mvc.resources.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\ru\System.Web.Optimization.resources.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\ru\System.Web.Razor.resources.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\ru\System.Web.WebPages.resources.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\ru\EntityFramework.resources.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\ru\Microsoft.Owin.resources.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\obj\Debug\LifeDemotivator.csprojResolveAssemblyReference.cache
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\obj\Debug\LifeDemotivator.Migrations.InitialCreate.resources
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\obj\Debug\LifeDemotivator.csproj.GenerateResource.Cache
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\obj\Debug\LifeDemotivator.dll
+D:\Сайт\LifeDemotivatorOld\LifeDemotivator\obj\Debug\LifeDemotivator.pdb
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\LifeDemotivator.dll.config
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\LifeDemotivator.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\LifeDemotivator.pdb
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Antlr3.Runtime.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\CloudinaryDotNet.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\EntityFramework.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\EntityFramework.SqlServer.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.AspNet.Identity.Core.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.Cookies.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.Facebook.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.Google.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.OAuth.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.Twitter.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.Web.Infrastructure.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Newtonsoft.Json.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Owin.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\System.Web.Helpers.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\System.Web.Mvc.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\System.Web.Optimization.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\System.Web.Razor.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\System.Web.WebPages.Deployment.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\System.Web.WebPages.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\System.Web.WebPages.Razor.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\WebGrease.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\System.Web.Helpers.xml
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\System.Web.Mvc.xml
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\System.Web.Optimization.xml
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\System.Web.Razor.xml
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\System.Web.WebPages.xml
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\System.Web.WebPages.Deployment.xml
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\System.Web.WebPages.Razor.xml
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Antlr3.Runtime.pdb
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Newtonsoft.Json.xml
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\EntityFramework.xml
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\EntityFramework.SqlServer.xml
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.AspNet.Identity.Core.xml
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.xml
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.xml
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.Facebook.xml
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.Cookies.xml
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.OAuth.xml
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.Google.xml
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.Twitter.xml
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\ru\System.Web.Helpers.resources.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\ru\System.Web.Mvc.resources.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\ru\System.Web.Optimization.resources.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\ru\System.Web.Razor.resources.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\ru\System.Web.WebPages.resources.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\ru\EntityFramework.resources.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\ru\Microsoft.Owin.resources.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\ru\Microsoft.Owin.Security.resources.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\obj\Debug\LifeDemotivator.csprojResolveAssemblyReference.cache
+E:\popitki\LifeDemotivator\LifeDemotivator\obj\Debug\LifeDemotivator.Migrations.InitialCreate.resources
+E:\popitki\LifeDemotivator\LifeDemotivator\obj\Debug\LifeDemotivator.csproj.GenerateResource.Cache
+E:\popitki\LifeDemotivator\LifeDemotivator\obj\Debug\LifeDemotivator.dll
+E:\popitki\LifeDemotivator\LifeDemotivator\obj\Debug\LifeDemotivator.pdb
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\LifeDemotivator.dll.config
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\LifeDemotivator.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\LifeDemotivator.pdb
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Antlr3.Runtime.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\CloudinaryDotNet.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\EntityFramework.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\EntityFramework.SqlServer.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.Core.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Cookies.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Facebook.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Google.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.OAuth.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Twitter.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Newtonsoft.Json.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Owin.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Helpers.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Mvc.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Optimization.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Razor.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.Deployment.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.Razor.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\WebGrease.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Helpers.xml
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Mvc.xml
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Optimization.xml
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Razor.xml
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.xml
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.Deployment.xml
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.Razor.xml
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Antlr3.Runtime.pdb
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Newtonsoft.Json.xml
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\EntityFramework.xml
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\EntityFramework.SqlServer.xml
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.Core.xml
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.xml
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.xml
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Facebook.xml
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Cookies.xml
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.OAuth.xml
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Google.xml
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Twitter.xml
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.Helpers.resources.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.Mvc.resources.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.Optimization.resources.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.Razor.resources.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.WebPages.resources.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\ru\EntityFramework.resources.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.resources.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.resources.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.csprojResolveAssemblyReference.cache
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.Migrations.InitialCreate.resources
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.csproj.GenerateResource.Cache
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.pdb
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\PagedList.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\PagedList.Mvc.dll
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\PagedList.xml
+E:\popitki\Git\Demotivators\LifeDemotivator\LifeDemotivatorTry\LifeDemotivator\bin\PagedList.Mvc.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\LifeDemotivator.dll.config
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\LifeDemotivator.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\LifeDemotivator.pdb
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Antlr3.Runtime.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\CloudinaryDotNet.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\EntityFramework.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\EntityFramework.SqlServer.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Google.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Newtonsoft.Json.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Owin.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\PagedList.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\PagedList.Mvc.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Helpers.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Mvc.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Optimization.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Razor.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.Deployment.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.Razor.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\WebGrease.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\PagedList.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\PagedList.Mvc.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Helpers.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Mvc.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Optimization.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Razor.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.Deployment.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.Razor.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Antlr3.Runtime.pdb
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Newtonsoft.Json.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\EntityFramework.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\EntityFramework.SqlServer.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Google.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.Helpers.resources.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.Mvc.resources.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.Optimization.resources.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.Razor.resources.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.WebPages.resources.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\ru\EntityFramework.resources.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.resources.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.Migrations.InitialCreate.resources
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.csproj.GenerateResource.Cache
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.dll
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.pdb
+D:\Сайт\Скинутое\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.csprojResolveAssemblyReference.cache
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\LifeDemotivator.dll.config
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\LifeDemotivator.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\LifeDemotivator.pdb
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Antlr3.Runtime.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\CloudinaryDotNet.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\EntityFramework.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\EntityFramework.SqlServer.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Google.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Newtonsoft.Json.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Owin.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\PagedList.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\PagedList.Mvc.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Helpers.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Mvc.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Optimization.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Razor.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.Deployment.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.Razor.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\WebGrease.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\PagedList.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\PagedList.Mvc.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Helpers.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Mvc.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Optimization.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Razor.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.Deployment.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.Razor.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Antlr3.Runtime.pdb
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Newtonsoft.Json.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\EntityFramework.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\EntityFramework.SqlServer.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Google.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.Helpers.resources.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.Mvc.resources.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.Optimization.resources.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.Razor.resources.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.WebPages.resources.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\ru\EntityFramework.resources.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\ru\EntityFramework.SqlServer.resources.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.resources.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.resources.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.csprojResolveAssemblyReference.cache
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.Migrations.InitialCreate.resources
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.csproj.GenerateResource.Cache
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.dll
+F:\Не вышло\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.pdb
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\LifeDemotivator.dll.config
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\LifeDemotivator.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\LifeDemotivator.pdb
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Antlr3.Runtime.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\CloudinaryDotNet.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\EntityFramework.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\EntityFramework.SqlServer.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.Core.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Cookies.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Facebook.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Google.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.OAuth.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Twitter.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Newtonsoft.Json.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Owin.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\PagedList.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\PagedList.Mvc.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Helpers.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Mvc.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Optimization.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Razor.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.Deployment.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.Razor.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\WebGrease.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\PagedList.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\PagedList.Mvc.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Helpers.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Mvc.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Optimization.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Razor.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.Deployment.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.Razor.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Antlr3.Runtime.pdb
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Newtonsoft.Json.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\EntityFramework.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\EntityFramework.SqlServer.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.Core.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Facebook.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Cookies.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.OAuth.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Google.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Twitter.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.Helpers.resources.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.Mvc.resources.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.Optimization.resources.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.Razor.resources.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.WebPages.resources.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\ru\EntityFramework.resources.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.resources.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.resources.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.csprojResolveAssemblyReference.cache
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.Migrations.InitialCreate.resources
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.csproj.GenerateResource.Cache
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.dll
+E:\popitki\LifeDemotivatorTry\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.pdb
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\LifeDemotivator.dll.config
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\LifeDemotivator.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\LifeDemotivator.pdb
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Antlr3.Runtime.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\CloudinaryDotNet.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\EntityFramework.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\EntityFramework.SqlServer.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Google.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Newtonsoft.Json.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Owin.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\PagedList.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\PagedList.Mvc.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Helpers.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Mvc.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Optimization.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Razor.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.Deployment.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.Razor.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\WebGrease.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\PagedList.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\PagedList.Mvc.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Helpers.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Mvc.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Optimization.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.Razor.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.Deployment.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\System.Web.WebPages.Razor.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Antlr3.Runtime.pdb
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Newtonsoft.Json.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\EntityFramework.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\EntityFramework.SqlServer.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Google.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.Helpers.resources.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.Mvc.resources.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.Optimization.resources.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.Razor.resources.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.WebPages.resources.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\ru\EntityFramework.resources.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.resources.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.Migrations.InitialCreate.resources
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.csproj.GenerateResource.Cache
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.dll
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.pdb
+D:\Сайт\LifeDemotivatorTry\LifeDemotivator\obj\Debug\LifeDemotivator.csprojResolveAssemblyReference.cache

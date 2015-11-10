@@ -1,0 +1,55 @@
+﻿@model LifeDemotivator.Models.DemoTagsViewModel
+@{
+    ViewBag.Title = "Home Page";
+    string CommentsAndRate;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (!User.Identity.IsAuthenticated)
+{
+    <div>Log in</div>
+}
+<link rel="stylesheet" href="~/Content/lightbox.css">
+
+
+<section>
+    
+    <hr />
+     
+    <div class="col-md-12 >
+        <div class="panel panel-footer" style="background-color:pink">
+            <h3>TAG CLOUD</h3>
+            <div class="panel-body">
+                <div id="tags">
+                    @foreach (var item in Model.tagsList)
+                    {
+
+                        @Html.ActionLink(item.Name, "FilterResults", "Home", new { parameter = 4, tagId = item.Id }, null);
+                        <b> </b>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @Html.ActionLink("All", "FilterResults", new { parameter=1})
+    @Html.ActionLink("Top", "FilterResults", new { parameter = 2 })
+    @Html.ActionLink("New", "FilterResults", new { parameter = 3 })
+    <dl class="dl-horizontal">
+        <h3>DEMOTIVATOR LIST</h3>
+        @foreach (var item in Model.demoList)
+        {
+            CommentsAndRate = Html.Partial("_VoteNow", item.Id.ToString()).ToString() + Html.Partial("_VoteShow", item.Rating).ToString() + Html.Partial("_Comments", item.Rating, new ViewDataDictionary { { "id", @item.Id } }).ToString();
+
+            <a class="example-image-link" data-title="@CommentsAndRate" href=@item.ModifiedUrl data-lightbox="example-1">
+                <img class="example-image" src=@item.ModifiedUrl alt="image-1" width="250" height="300"/>
+            </a>
+
+        }
+
+    </dl>
+</section>
+
+<script src="~/Scripts/jquery-2.1.4.js"></script>
+<script src="~/Scripts/lightbox.js"></script>
+
